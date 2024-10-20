@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egejoigu.github.io/BhF/sitemap_index.txt.gz
+Sitemap: https://egejoigu.github.io/Qod/sitemap_index.txt.gz
+Sitemap: https://egejoigu.github.io/mQj/sitemap_index.txt.gz
+Sitemap: https://egejoigu.github.io/qIO/sitemap_index.txt.gz
+Sitemap: https://egejoigu.github.io/qkw/sitemap_index.txt.gz
